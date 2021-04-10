@@ -1,0 +1,178 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #98c1d9;
+}
+
+.header-control{
+    background-color: #293241;
+    width: 100%;
+    height: 100px;
+}
+
+.control-align{
+    width: 980px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.textbox h1{
+    color: #ee6c4d;
+    font-family: 'baskervville';
+    margin-left: -190px;
+    font-size: 40px;
+}
+
+.login{
+    float: right;
+    font-family: 'Averia-Gruesa-Libre';
+    font-size: 13px;
+    margin-left: 500px;
+    margin-top: -28px;
+    color: #98c1d9
+}
+
+.login p{
+    margin-left: 10px;
+}
+
+.inputtxt{
+    width: 150px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.btn{
+    background-color: #ee6c4d;
+    font-family: 'baskervville';
+    color: #293241;
+    font-weight: bold;
+    padding: 03px 03px 03px 03px;
+    border: none;
+    border-radius: 03px;
+    margin-left: 10px;
+}
+
+.login a{
+    color: #98c1d9;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.content-control{
+    width: 980px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left{
+    float: left;
+    margin-top: 20px;
+    margin-left: -190px;
+    width: 400px;
+    font-family: 'baskervville';
+    color: #293241;
+}
+
+.left h3{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.right{
+    float: right;
+    font-family: 'baskervville'; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+
+img{
+    width: 600px;
+    height: 200px;
+}
+
+.ipt{
+    width: 200px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 05px;
+    border-radius: 03px;
+    border: none;
+    border: 1px solid #98c1d9;
+    padding-left: 10px;
+    font-size: 17px;
+    font-family: 'Averia-Gruesa-Libre';
+}
+
+
+.ipt2{
+    width: 420px;
+    height: 30px;
+    border-radius: 03px;
+    padding-left: 10px;
+    font-size: 17px;
+    border: none;
+    border: 1px solid #98c1d9;
+    margin-top: 10px;
+    margin-left: 05px;
+    font-family: 'Averia-Gruesa-Libre';
+}
+
+.dropdown{
+    width: 65px;
+    height: 30px;
+    border-radius: 03px;
+    border: none;
+    border: 1px solid #98c1d9;
+    color: #293241;
+    font-family: 'Averia-Gruesa-Libre';
+    margin-top: 10px;
+    margin-left: 05px;
+}
+
+i {
+    font-size: 20px;
+    margin-left: 05px; 
+    margin-right: 05px; 
+}
+
+.container{
+    margin-top: 10px;
+    font-family: 'Averia-Gruesa-Libre';
+}
+
+.footer{
+    margin-top: 15px;
+    font-family: 'baskervville';
+    text-decoration: none;
+}
+
+.footer a{
+    text-decoration: none;
+}
+
+.bttn {
+    background-color: #ee6c4d;
+    font-family: 'baskervville';
+    color: #e0fbfc;
+    font-weight: bold;
+    padding: 03px 03px 03px 03px;
+    border: none;
+    border-radius: 03px;
+    margin-top: 20px;
+    width: 50%;
+}
+
+.last{
+    margin-top: 50px;
+}
+
+.last a{
+    text-decoration: none;
+}
